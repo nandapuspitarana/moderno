@@ -1,0 +1,104 @@
+#nav {
+  background-color: rgba(52, 58, 64, 1);
+}
+#jumbo {
+  background-color: rgba(52, 58, 64, 1);
+  text-align: center;
+  padding: 100px 0px;
+}
+#h1 {
+  color: white;
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 550;
+}
+#bt {
+  background-color: tomato;
+  width: 120px;
+}
+#p1 {
+  font-family: Lora;
+  color: white;
+}
+#navbarNav {
+  text-align: right;
+}
+#icon-icon {
+  padding-top: 10px;
+  text-align: center;
+}
+.ic1 {
+  text-align: center;
+  padding-top: 10px;
+}
+.icon1 {
+  background-color: tomato;
+  border-radius: 50% 50%;
+  width: 100px;
+  height: 100px;
+  margin-left: 180px;
+  position: relative;
+  padding-top: 15px;
+}
+.icon2 {
+  background-color: white;
+  border-radius: 50% 50%;
+  width: 100px;
+  height: 100px;
+  margin-left: 180px;
+  border: 5px solid lightgrey;
+  padding-top: 15px;
+}
+#blank {
+  background-color: rgba(128, 128, 128, 1);
+}
+#vie {
+  border: 1px solid lightgray;
+  padding-left: 50px;
+}
+#button {
+  width: 200px;
+  height: 50px;
+  background-color: tomato;
+}
+
+/* revisi */
+/* our service */
+#our-service {
+  margin: 100px 0px;
+}
+
+.logo-img {
+  font-size: 40px;
+  color: #fa694e;
+}
+
+.background-img {
+  padding: 25px;
+  border-radius: 50%;
+  width: 100px;
+  margin: auto;
+}
+
+.background-img:hover {
+  background: #fa694e;
+  border: 1px solid transparent;
+}
+
+.background-img:hover .logo-img {
+  color: #fff;
+}
+
+.orange-bg {
+  background: #fa694e;
+}
+
+.transparent-bg {
+  background: transparent;
+  border: 1px solid #222;
+}
+
+.card-service h3 {
+  font-size: 20px;
+  margin: 35px 0px;
+}
